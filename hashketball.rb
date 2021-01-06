@@ -109,13 +109,7 @@ def game_hash
            :blocks => "",
            :slam_dunks => ""
           },
-          
-        ]
-    }
-  }
-end
-
-{ 
+          { 
            :player_name => "",
            :number => "",
            :shoe => "",
@@ -126,3 +120,8 @@ end
            :blocks => "",
            :slam_dunks => ""
           }
+        ]
+    }
+  }
+end
+          
