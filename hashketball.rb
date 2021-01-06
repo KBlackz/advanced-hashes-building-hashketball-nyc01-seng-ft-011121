@@ -1,8 +1,9 @@
-def building_the_hash(game_hash)
-  away_team do |key, value|
-    home_team do |key, value|
-    end
-  
-  end
+def game_hash
+  {
+    :home => { 
+      :team_name => 
+      :colors
+    }
+  }
 end
 
